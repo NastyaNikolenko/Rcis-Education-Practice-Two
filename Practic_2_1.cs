@@ -5,7 +5,7 @@
 // namespace ConsoleApplication1
 // {
 //     internal class Program
-//     {
+//     { 
 //         public static void Main()
 //         {
 //             Console.WriteLine("Введите строку J: ");
