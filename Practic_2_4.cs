@@ -4,7 +4,7 @@ using  System.Collections.Generic;
 //task in practic work 2.4
 namespace Practic_2_4
 {
-    internal class Program
+    internal class Program 
     {
         private static Dictionary<char, int> romanMap = new Dictionary<char, int>
         {
