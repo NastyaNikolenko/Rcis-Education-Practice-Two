@@ -5,7 +5,7 @@
 // {
 //     internal class Program
 //     {
-//         public static void Main()
+//         public static void Main() 
 //         {
 //             Student bang = new Student();
 //             Student han = new Student();
